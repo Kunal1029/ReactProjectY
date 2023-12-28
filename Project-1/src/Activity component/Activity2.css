@@ -1,0 +1,20 @@
+.prod{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid red;
+    width: 1200px;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+.Act{
+    width: 200px;
+    height: 140px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    border: 2px solid black;
+    text-align: center;
+}

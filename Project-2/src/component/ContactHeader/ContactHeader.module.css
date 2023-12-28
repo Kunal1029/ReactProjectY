@@ -1,0 +1,17 @@
+.contact{
+    margin-top: 60px;
+    max-width: 900px;
+}
+.contact h1{
+    font-size: 2.8rem;
+    font-weight: 800;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.contact p{
+    font-size: 0.9rem;
+    margin-right: 10px;
+    margin-left: 10px;
+
+    /* font-weight: 600; */
+}
